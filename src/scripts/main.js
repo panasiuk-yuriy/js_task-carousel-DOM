@@ -1,8 +1,6 @@
 'use strict';
 
 const carousel = document.querySelector('.carousel');
-// const container = document.querySelector('.container');
-// console.dir(container.lastElementChild)
 const leftButton = document.querySelector('.carousel__btn_prev');
 const rightButton = document.querySelector('.carousel__btn_next');
 const countItems = document.querySelectorAll('.carousel__item').length;
